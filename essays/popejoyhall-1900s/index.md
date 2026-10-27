@@ -1,9 +1,8 @@
 ---
-# Change these five lines as soon as you copy this starter.
 title: Popejoy Hall 1970s
 author: Aubri Garcia
-category: Arts Venue                  # change to a category from the student guide
-header-image: popejoy-hall-1970.jpeg   # the filename of your own image
+category: Arts Venue                 
+header-image: popejoy-hall-1970.jpeg   
 header-caption: Fine Arts Center - Popejoy Hall - interior - orchestra on stage
 
 # Fill these in later, once your research is under way.
